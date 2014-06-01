@@ -3,7 +3,7 @@ UI
 ======
 
 
-cd lagaan/
+cd ui/
 
 sudo brew install npm 
 
