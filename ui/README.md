@@ -1,11 +1,9 @@
 =======
-lagaan
+UI
 ======
 
 
-git clone git@github.com:GS/lagaan.git
-
-cd lagaan/
+cd ui/
 
 sudo brew install npm 
 
